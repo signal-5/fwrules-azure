@@ -5,6 +5,6 @@ Perl script to be run from Azure Bash shell https://shell.azure.com/bash
 
 Output is in CSV format. Example:
 
-fwrules-azure.pl >fwrules.csv
+perl fwrules-azure.pl >fwrules.csv
 
 //sigtrap
