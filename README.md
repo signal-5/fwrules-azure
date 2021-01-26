@@ -8,3 +8,5 @@ Output is in CSV format. Example:
 perl fwrules-azure.pl >fwrules.csv
 
 //sigtrap
+
+20210126: Not working right now for all types of Azure firewall rules.
